@@ -1,0 +1,27 @@
+
+.title{
+font-family: Kiln Sans;
+font-size: 2.5 em;
+text-align: center;
+}
+
+.bodycopy{
+font-family:Adobe Caslon Pro;
+font-size: 1.5 em;
+}
+
+.myimage {
+    width: 100vw;
+    height: auto; 
+}
+
+
+/* ---Iphone 14 ---- */
+
+@media only screen
+And (min-width: 390 px)
+And (max-width: 844 px)
+And (orientation: portrait){
+}
+
+
